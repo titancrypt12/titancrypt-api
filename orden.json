@@ -1,1 +1,8 @@
-{ "orden": "comprar" }
+if orden == "comprar":
+    print("🚀 Ejecutar compra")
+elif orden == "vender":
+    print("💸 Ejecutar venta")
+elif orden == "esperar":
+    print("⏳ Esperando...")
+else:
+    print("❓ Orden desconocida:", orden)
