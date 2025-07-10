@@ -1,1 +1,5 @@
-{"orden": "vender"}
+{
+  "orden": "comprar",
+  "moneda": "USDT",
+  "cantidad": 5
+}
