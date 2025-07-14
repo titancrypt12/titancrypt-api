@@ -1,5 +1,5 @@
 {
-    "orden": "comprar",
-    "moneda": "XRPUSDT",
-    "cantidad": 0.5
+    "orden": "vender",
+    "moneda": "BTCUSDT",
+    "cantidad": 0.0006
 }
