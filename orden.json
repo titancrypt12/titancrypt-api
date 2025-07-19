@@ -1,5 +1,6 @@
 {
-    "orden": "comprar",
-    "moneda": "SOLUSDT",
-    "cantidad": 0.07
+  "accion": "comprar",
+  "par": "SOLUSDT",
+  "cantidad": 0.6,
+  "motivo": "RSI en sobreventa + soporte confirmado (10m y 1h)"
 }
