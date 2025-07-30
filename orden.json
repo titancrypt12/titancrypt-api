@@ -1,6 +1,6 @@
 {
   "accion": "comprar",
-  "par": "SOLUSDT",
-  "cantidad": 0.6,
-  "motivo": "RSI en sobreventa + soporte confirmado (10m y 1h)"
+  "par": "BICOUSDT",
+  "usar_total_usdt": true,
+  "motivo": "Prueba con total disponible"
 }
